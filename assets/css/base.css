@@ -29,3 +29,7 @@ html {
     display: flex;
     flex-wrap: wrap;
 }
+
+.two-row {
+    height: 50%;
+}
